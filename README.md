@@ -84,10 +84,12 @@ O trabalho foi realizado em grupo, seguindo as instruções do professor, com a 
 ## Modelos do Banco de Dados
 
 ### Modelo Conceitual
-![Modelo Conceitual](./Modelos_Conceitual_e_Logico/modelo_logico.png)
+![Modelo_Conceitual](https://github.com/user-attachments/assets/db30d37e-c49a-43a4-bb43-d1a0289d5cd0)
+
 
 ### Modelo Lógico
-![Modelo Lógico](./Modelos_Conceitual_e_Logico/modelo_logico.png)
+<img width="1594" height="1218" alt="Modelo_Logico" src="https://github.com/user-attachments/assets/f024daad-10e3-4a2d-99c7-40f17333d1dc" />
+
 
 
 ## Conclusão
