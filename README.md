@@ -81,6 +81,15 @@ O trabalho foi realizado em grupo, seguindo as instruções do professor, com a 
 4. Execute os scripts de inserção de dados.
 5. Utilize os comandos de consulta, atualização e relatórios conforme documentado.
 
+## Modelos do Banco de Dados
+
+### Modelo Conceitual
+![Modelo Conceitual](./Modelos_Conceitual_e_Logico/modelo_logico.png)
+
+### Modelo Lógico
+![Modelo Lógico](./Modelos_Conceitual_e_Logico/modelo_logico.png)
+
+
 ## Conclusão
 
 O projeto atendeu aos requisitos propostos, implementando um sistema de gerenciamento de clínica odontológica com tabelas relacionadas, inserções de dados, atualizações, exclusões, relatórios e views. O trabalho em equipe foi essencial para a conclusão do projeto, unindo conhecimentos técnicos e colaboração para alcançar o resultado final.
