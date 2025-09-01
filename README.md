@@ -56,10 +56,10 @@ O trabalho foi realizado em grupo, seguindo as instruções do professor, com a 
 
 ### Consultas Analíticas
 
-*Quantidade de consultas por especialidade.
-*Quantidade de consultas por dentista (ordem decrescente).
-*Pacientes com maior número de consultas.
-*Cálculo da média de consultas por dentista
+* Quantidade de consultas por especialidade.
+* Quantidade de consultas por dentista (ordem decrescente).
+* Pacientes com maior número de consultas.
+* Cálculo da média de consultas por dentista
 
 ### Integrantes e Responsabilidades
 
@@ -84,7 +84,7 @@ O trabalho foi realizado em grupo, seguindo as instruções do professor, com a 
 ## Modelos do Banco de Dados
 
 ### Modelo Conceitual
-![Modelo_Conceitual](https://github.com/user-attachments/assets/db30d37e-c49a-43a4-bb43-d1a0289d5cd0)
+![modelo_conceitual](https://github.com/user-attachments/assets/063fa283-6413-4537-8e90-899fe72bfc02)
 
 
 ### Modelo Lógico
